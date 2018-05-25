@@ -78,10 +78,10 @@ body {
                     </button>
                     <img src="img/upfmlg.png">
                 </div>
-                
+
                 <!-- Begin # DIV Form -->
                 <div id="div-forms">
-                
+
                     <!-- Begin # Login Form -->
                     <form id="login-form">
                         <div class="modal-body">
@@ -94,10 +94,10 @@ body {
                             </div>
                         </div>
                     </form>
-                    <!-- End # Login Form -->                 
+                    <!-- End # Login Form -->
                 </div>
                 <!-- End # DIV Form -->
-                
+
             </div>
         </div>
     </div>
@@ -137,16 +137,16 @@ body {
                         </div>
                     </div>
                 </div>
-               
+
                 </div>
                         <div class="form-group">
                     <label>Date of Birth</label>
                         <input type="date" id="birthDate" class="form-control" required>
-                </div>                  
+                </div>
                         <div class="form-group">
                             <label>Address</label>
                             <textarea placeholder="Enter Address Here.." rows="3" class="form-control"></textarea>
-                        </div>  
+                        </div>
                         <div class="row">
                         <div class="col-sm-4 form-group">
                         <label>City</label>
@@ -239,35 +239,35 @@ body {
                                 <input type="text" placeholder="Enter Zip Code Here.." class="form-control">
                             </div>
 
-                         </div>   
+                         </div>
                         </form>
-                        </div> 
+                        </div>
 
                     <div class="form-group" required>
                         <label>Phone Number</label>
                         <input type="text" placeholder="Enter Phone Number Here.." class="form-control">
-                    </div>      
+                    </div>
                     <div class="form-group" required>
                         <label>Email Address</label>
                         <input type="Email" placeholder="Enter Email Address Here.." class="form-control">
-                    </div> 
+                    </div>
                     <div class="form-group" required>
                         <label>Password</label>
                         <input type="Password" placeholder="Enter Password Here.." class="form-control">
-                    </div> 
+                    </div>
                     <div class="form-group" required>
                         <label>Comfirm Password</label>
                         <input type="Password" placeholder="Comfirm Password Here.." class="form-control">
-                    </div> 
+                    </div>
                  <div class="row">
                 <div class="form-group">
                                             <div class="col-sm-8">
-                        <button type="button" class="btn btn-lg btn-info"><a href="confirmemail.php">Submit</a></button>   
+                        <button type="button" class="btn btn-lg btn-info"><a href="confirmemail.php">Submit</a></button>
                         </div>
-                    </div> 
+                    </div>
                 </div>
                 </div>
-                </form> 
+                </form>
                 </div>
     </div>
     </div>
